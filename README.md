@@ -1,0 +1,1 @@
+Just made my 1st project "RECIPIES", its easy once i studied the overall chapters deeply, In start i usually get confused how to do things. Just made a couple of short notes to get remind of things i got to keep forgetting, and also wrote the entire code in simple notepad to get into use of it.
